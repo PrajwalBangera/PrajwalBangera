@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm K Prajwal Bangera</h1>
 
 <p align="center">
-  🎓 B.E. Computer Science & Engineering | 📍 Bangalore, India <br>
+  🎓 B.E. Computer Science & Engineering | 📍 Mangalore, India <br>
   💻 Passionate about Tech, Data Privacy & Quality Analysis <br>
   🔍 Seeking roles in Quality Evaluation, Fraud Detection, Compliance, and Customer Protection
 </p>
